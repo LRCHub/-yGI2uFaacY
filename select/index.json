@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "ZERO ICHI",
+  "base_artist": "QUEEN BEE",
+  "createdAt": "2026-03-19T21:17:37.255980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ZERO ICHI",
+      "artist": "QUEEN BEE",
+      "has_synced": false,
+      "path": "select/01_ZERO_ICHI_QUEEN_BEE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ZERO ICHI(off vocal version)",
+      "artist": "Queen Bee",
+      "has_synced": false,
+      "path": "select/02_ZERO_ICHI(off_vocal_version)_Queen_Bee.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01 - ZERO ICHI",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/03_01_-_ZERO_ICHI_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zero Ichi Kiseki",
+      "artist": "Nanjou Yoshino",
+      "has_synced": true,
+      "path": "select/04_Zero_Ichi_Kiseki_Nanjou_Yoshino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zero Trucks",
+      "artist": "Alana Springsteen",
+      "has_synced": true,
+      "path": "select/05_Zero_Trucks_Alana_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Day Called Zero",
+      "artist": "The Sugarcubes",
+      "has_synced": false,
+      "path": "select/06_A_Day_Called_Zero_The_Sugarcubes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Climbing Up the Walls (Zero 7 Mix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/07_Climbing_Up_the_Walls_(Zero_7_Mix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug feat. Quavo",
+      "has_synced": true,
+      "path": "select/08_Sub_Zero_Young_Thug_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/09_Sub_Zero_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zero",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/10_Zero_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "RE: Zero",
+      "artist": "Lil Boom",
+      "has_synced": false,
+      "path": "select/11_RE__Zero_Lil_Boom.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zero",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/12_Zero_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "257.Zero",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/13_257.Zero_Moby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Euro Zero Zero",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/14_Euro_Zero_Zero_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Provider (Zero 7 remix)",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/15_Provider_(Zero_7_remix)_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The New Face of Zero and One",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/16_The_New_Face_of_Zero_and_One_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Zero Sum",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/17_Zero_Sum_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Zero Sum - Stephen Morris And Gillian Gilbert",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/18_Zero_Sum_-_Stephen_Morris_And_Gillian_Gilbert_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Zero-Sum (Stephen Morris and Gillian Gilbert)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/19_Zero-Sum_(Stephen_Morris_and_Gillian_Gilbert)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San, Shi",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/20_Ichi,_Ni,_San,_Shi_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Ichi Nen Mae no Koibito",
+      "artist": "Junko Yagami",
+      "has_synced": false,
+      "path": "select/21_Ichi_Nen_Mae_no_Koibito_Junko_Yagami.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Ichi Ni San....Go",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/22_Ichi_Ni_San....Go_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San ... Go!",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/23_Ichi,_Ni,_San_..._Go!_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San ... Go! (Album Version)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/24_Ichi,_Ni,_San_..._Go!_(Album_Version)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San, Shi",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/25_Ichi,_Ni,_San,_Shi_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San, Shi [Explicit]",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/26_Ichi,_Ni,_San,_Shi_[Explicit]_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Gobun no Ichi",
+      "artist": "中野家の五つ子",
+      "has_synced": true,
+      "path": "select/27_Gobun_no_Ichi_中野家の五つ子.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Gobun no Ichi",
+      "artist": "Nakanoke no Itsutsugo",
+      "has_synced": true,
+      "path": "select/28_Gobun_no_Ichi_Nakanoke_no_Itsutsugo.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "This Isn't the Tenka-Ichi-Budôkai",
+      "artist": "i hate myself",
+      "has_synced": true,
+      "path": "select/29_This_Isn't_the_Tenka-Ichi-Budôkai_i_hate_myself.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "This Still Isn't the Tenka-ichi Budokai",
+      "artist": "Panucci's Pizza",
+      "has_synced": false,
+      "path": "select/30_This_Still_Isn't_the_Tenka-ichi_Budokai_Panucci's_Pizza.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "This Isn't the Tenka-Ichi-Budokai",
+      "artist": "I Hate Myself",
+      "has_synced": true,
+      "path": "select/31_This_Isn't_the_Tenka-Ichi-Budokai_I_Hate_Myself.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San… Go! (album version)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/32_Ichi,_Ni,_San..._Go!_(album_version)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Ichi, Ni, San, Shi",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/33_Ichi,_Ni,_San,_Shi_Zebrahead.lrc"
+    }
+  ]
+}
